@@ -1,0 +1,28 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+	body{
+	background-color:#efefef
+	color:black;
+	font-size:20px;
+	font-family:Arial,sans-serif;
+}
+#nav{
+display: inline;
+padding: 10px;
+border-style: dotted;
+}
+.three_column{ 
+-moz-box box-shadow: inset 0 0 10px #777777;
+-webkit-box-shadow:inset 0 0 10px #777777;
+box-shadow: inset 0 0 10px #777777;
+width:200px;
+float: left;
+}
+ul{list-style: inside circle;
+width:300px;
+}
+li{
+	margin: 10px 0px 0px 0px;}
+ol{
+	list-style; outside;}
+li{
+	margin: 10px 0px 0px 0px;  }

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Erika Bergman</tittle> 
+</head>
+	<body class="homepage">
+		<header>Erika Bergman</header>
+<div id="nav">
+<ul>
+	<li><a href="Home"></a></li>
+	<li><a href="About"></a></li>
+	<li><a href="Contact"></a></li>
+</ul>
+	<a href="#" class="three_column">
+		<img src="images/cali_walk.jpg" alt="California" width="200" height="200" align="left"/>
+		<img src="images/nyc_walk.jpg" alt="New York City" width="200" height="200" align="center"/>
+		<img src="images/gp_walk.jpg" alt="Grosse Pointe" width="200" height="200" align="right"/>
+	</a>
+	<blockquote cite="http://www.4yourtype.com/?gclid=Cj0KEQjw-YO7BRDwi6Stp7T296ABEiQAD6iWMSKgAMNbN2n3Vo9I8V5KEnkvCQTatTgVnJzMKzGcgrEaAvpx8P8HAQ">
+		<p>Eating for your Bloodtype</p>
+	</blockquote>
+	<p>Find out your Bloodtype?</p>
+	<a href="http://www.4yourtype.com/original-home-blood-typing-kit/">
+	</a>
+<div>
+	<h3>Simple Guacamole</h3>
+	<ul>
+		<li>3 avocados</li>
+		<li>1/2 of a lemon</li>
+		<li>1 tsp tobasco</li>
+		<li>salt and peper to taste</li>
+	</ul>
+	<ol>
+		<li>Halve avocados and remove pits</li>
+		<li>Scoop out avocado's into bowl</li>
+		<li>Squeeze half a lemon into bowl</li>
+		<li>Mush lemon and avocado together with fork</li>
+		<li>Add tobasco and stirr</li>
+		<li>Add salt and peper to taste</li>
+	</ol>
+</div>
+<footer>
+		<p>contact Erika <a href="mailto:erika.a.bergman@gmail.com.com">erika.a.bergman@gmail.com</a></p>
+		<address></address>
+<fieldset>
+	<legend>Contact Details</legend>
+	<label>Email:<br />
+	<input type="text" name="email" />></label><br />
+	<label>Mobile:<br />
+	<input type="text" name="mobile" /></label><br />
+</fieldset>
+</fieldset>		
+		<p>&copy;2016 Bergman Portfolio llc</p>
+	</footer>
+	</body>
+	</html>
