@@ -3,7 +3,7 @@ body{
 	background-color:white;
 	color:black;
 	font-size:20px;
-	font-family: "courier new", courier,serif;
+	font-family:Helvetica,sans-serif 
 	text-align:center;
 	}	
 nav{
@@ -16,7 +16,7 @@ nav{
 	}	
 nav a{
 	font-size:28px;
-	font-family: "courier new",courier, serif;
+	font-family: Helvetica,sans-serif;
 	padding-left: 3.0em;
 	padding-right: 3.0em;
 	margin-top: 1.5em;
@@ -26,7 +26,7 @@ a{
 	color: inherit;
 	}
 h1,h3{
-	font-family:Helvetica,sans-serif;
+	font-family:"courier new", courier,serif;
 	font-weight:lighter;
 	padding-top: 5%;
 }
